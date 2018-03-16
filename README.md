@@ -1,5 +1,5 @@
 ---
-title: Static Comp Challenge 1
+title: Bradley Cooper
 ---
 
 ## Specification
